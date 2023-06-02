@@ -1,9 +1,12 @@
 display_name,stub,dropdown_parent
 Home,/
 Browse,/browse.html
-Subjects,/subjects.html
-Locations,/locations.html
-Map,/map.html
-Timeline,/timeline.html
+Vizualization,,
+Subjects,/subjects.html,Vizualization
+Locations,/locations.html,Vizualization
+Map,/map.html,Vizualization
+Timeline,/timeline.html,Vizualization
 Data,/data.html
-About,/about.html
+About,,
+About Her Book Project,/about.html,About
+History of the Project,/history.html,About
