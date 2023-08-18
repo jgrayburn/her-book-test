@@ -12,7 +12,7 @@ permalink: /about.html
 
 {% include feature/nav-menu.html sections="About the project;About the Author" %}
 
-## About the Project
+## CHANGE!
 
 Lorem ipsum dolor sit **amet**, consectetur adipiscing elit. In in sem odio. Donec tempor nulla nulla, in vulputate dui tincidunt eu. Donec quis magna ut arcu lacinia laoreet. Vestibulum egestas erat nec eros lacinia efficitur. 
 - Vivamus in lorem nec erat fringilla pulvinar vel eget odio. Nunc ipsum urna, ultrices vel finibus non, elementum vel lacus. 
